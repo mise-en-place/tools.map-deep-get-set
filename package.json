@@ -6,7 +6,8 @@
   "eyeglass": {
     "sassDir": "stylesheets",
     "needs": "^1.0.0",
-    "name": "tools.map-deep-get-set"
+    "name": "tools.map-deep-get-set",
+    "exports": "eyeglass-exports.js"
   },
   "keywords": [
     "eyeglass-module",
