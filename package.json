@@ -1,0 +1,22 @@
+{
+  "name": "mise-en-place.tools.map-deep-get-set",
+  "version": "1.0.0",
+  "description": "Deep  get/set a Sass map in one operation",
+  "main": "stylesheets/_map-deep-get-set.scss",
+  "eyeglass": {
+    "sassDir": "stylesheets",
+    "needs": "^1.0.0",
+    "name": "tools.map-deep-get-set"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/tools.map-deep-get-set.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
