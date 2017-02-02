@@ -1,11 +1,11 @@
 {
-  "name": "@mise-en-place/tools.map-deep-get-set",
+  "name": "mep-tools.map-deep-get-set",
   "version": "1.0.0",
-  "description": "Deep  get/set a Sass map in one operation",
-  "main": "stylesheets/_map-deep-get-set.scss",
+  "description": "Deep get/set a Sass map in one operation",
+  "main": "stylesheets/_tool-map-deep-get-set.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "map-deep-get-set",
+    "name": "tool-map-deep-get-set",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
